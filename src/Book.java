@@ -50,5 +50,4 @@ public class Book {
                 ", publicationYear=" + publicationYear +
                 '}';
     }
-
 }
