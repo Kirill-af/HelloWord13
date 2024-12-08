@@ -19,5 +19,6 @@ public class Main {
         System.out.println(javaPhilosophy);
 
         System.out.print(javaPhilosophy.hashCode());
+
     }
 }
